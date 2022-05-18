@@ -4,7 +4,7 @@ import Os from './components/os';
 
 function App() {
   return (
-    <div className="App">
+    <div >
       <Os/>
     </div>
   );
